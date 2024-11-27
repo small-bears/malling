@@ -1,4 +1,4 @@
-#### 一、项目演示地址：
+#### 一、项目演示地址（点击链接就可以看到）：
 
 https://www.bilibili.com/video/BV1QwUDYsEEj/?spm_id_from=333.999.0.0&vd_source=d6c0e92e345f995e8849e6e3baa03aeb
 #### 二、获取地址:
